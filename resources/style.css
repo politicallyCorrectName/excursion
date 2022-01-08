@@ -1,3 +1,31 @@
-nigga{
+*{
+    font-family: Verdana;
+    font-weight: normal;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#nigga{
     border-color: brown;
+}
+h1{ 
+    font-size: 50px;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
+h2{
+    font-weight: 300;
+    font-size: 42px;
+}
+#stuff{
+    font-size: 21px;
+    color: gray;
+}
+#copyright{
+    text-align: right;
+    color: gray;
 }
