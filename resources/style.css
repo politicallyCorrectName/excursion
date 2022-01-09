@@ -4,6 +4,7 @@
     background-color: black;
     color: white;
     text-align: center;
+    
 }
 
 #nigga{
@@ -21,7 +22,7 @@ h2{
     font-weight: 300;
     font-size: 42px;
 }
-#stuff{
+figcaption{
     font-size: 21px;
     color: gray;
 }
